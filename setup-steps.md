@@ -1,5 +1,4 @@
-# Development Laptop
-Development laptop setup checklist and links
+# Development Mac Setup Steps
 
 - [ ] Homebrew
 
@@ -19,3 +18,5 @@ Development laptop setup checklist and links
 
     https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38
     https://superuser.com/questions/427163/altarrow-moving-between-words-in-zsh-and-iterm2?answertab=votes#tab-top
+
+
